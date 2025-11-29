@@ -1,44 +1,45 @@
-# 🤖 Aksam Intelligence — Smart WhatsApp Bot for Uganda
+# 🤖 Aksam Intelligence — WhatsApp Bot
 
-> 🇺🇬 *Built by Aksam Wisdom | Mukono, Uganda*  
-> 💡 *Your intelligent assistant for daily life, faith, and local needs*
-
-![GitHub Repo Size](https://img.shields.io/github/repo-size/aksamwisdom0/DARK-WEB-V1?color=blue&label=Repo%20Size) 
-![GitHub Stars](https://img.shields.io/github/stars/aksamwisdom0/DARK-WEB-V1?color=yellow&label=Stars) 
-![GitHub Issues](https://img.shields.io/github/issues/aksamwisdom0/DARK-WEB-V1?color=red&label=Issues) 
-![GitHub License](https://img.shields.io/github/license/aksamwisdom0/DARK-WEB-V1?color=green&label=License)
+> *Powerful, AI-powered WhatsApp bot by **Aksam Wisdom** — for groups, downloads, automation, and more.*  
+> ✅ Easy setup • 🔐 Secure • 🇺🇬 Made in Mukono
 
 ---
 
-## 🌟 Features
+## ⚠️ Important Notice
 
-✅ **Local Focus** — Designed for Ugandans  
-✅ **Faith Tools** — Bible verses, prayer times  
-✅ **Daily Life** — Weather, news, currency, boda fares  
-✅ **Safe & Secure** — No eval/exec, no hidden joins  
-✅ **Easy Setup** — Works on phone (Termux) or cloud (Replit/Render)
+> This bot is made for **educational purposes only** — hence, **DO NOT MISUSE**.  
+> Use responsibly. Respect privacy, laws, and WhatsApp’s terms.
 
 ---
 
-## 🚀 Quick Start
+## ✅ Quick Start Guide
 
-### Option 1: Run on Replit (Free, 24/7)
-[![Run on Replit](https://replit.com/badge/github/aksamwisdom0/DARK-WEB-V1)](https://replit.com/github/aksamwisdom0/DARK-WEB-V1)
+Follow these 4 simple steps to get your bot running:
 
-1. Click the button above.
-2. Wait for install (~1 min).
-3. Run `npm start` in Shell.
-4. Scan QR code with WhatsApp → Done!
+### 1️⃣ JOIN WHATSAPP GROUP  
+💬 Community support, tips & live help  
+[![JOIN GROUP](https://img.shields.io/badge/JOIN-GROUP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/KEvRdIAXEUIH6xsGCtzvpV?mode=hqrt3)
 
-### Option 2: Run Locally (Termux/PC)
+### 2️⃣ GET SESSION ID  
+🔐 Pair your WhatsApp number securely (no QR needed!)  
+[![PAIR NOW](https://img.shields.io/badge/PAIR-NOW-FF6B6B?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/256745947009?text=Hi%20Aksam%2C%20I%20need%20a%20session%20ID%20for%20Aksam%20Intelligence)
+
+### 3️⃣ JOIN WHATSAPP CHANNEL  
+📢 Official updates, new features & announcements  
+[![JOIN CHANNEL](https://img.shields.io/badge/JOIN-CHANNEL-7E57C2?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029Vb7FJ4RG3R3ry9cVJn0r)
+
+### 4️⃣ JOIN TELEGRAM SUPPORT  
+🆘 24/7 support, tutorials & troubleshooting  
+[![JOIN TELEGRAM](https://img.shields.io/badge/JOIN-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/aksamwisdom_support)
+
+> 💡 **Pro Tip**: Use pairing code for fastest setup — works on all devices, even WhatsApp Web!
+
+---
+
+## 🚀 How to Run
+
 ```bash
-git clone https://github.com/aksamwisdom0/DARK-WEB-V1.git
-cd DARK-WEB-V1
+git clone https://github.com/aksamwisdom0/Aksam-Intelligence.git
+cd Aksam-Intelligence
 npm install
-npm start
-
----
-
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+node index.js
